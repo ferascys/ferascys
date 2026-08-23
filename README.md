@@ -6,7 +6,7 @@ Welcome to my GitHub profile. I am a Cybersecurity student at **King Saud Univer
 ### 🛡️ Professional Overview
 - 🎓 **Academics:** Pursuing a degree in Cybersecurity at KSU.
 - 🏛️ **Leadership:** Active member of the Public Relations Committee at the **KSU Cybersecurity Club**.
-- 🚀 **Certifications path:** Currently advancing my technical expertise by preparing for **Security+, Network+, Linux+, and eJPTv2**.
+- 🚀 **Certifications path:** Currently advancing my technical expertise by preparing for **Security+, Network+, and eJPTv2**.
 - 💡 **Innovation:** Actively participating in national tech initiatives, including the **Saef Innovation Competition** under the Global Summit for Safety and Technology.
 
 ### 💻 Featured Projects & Experience
