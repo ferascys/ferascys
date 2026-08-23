@@ -1,4 +1,4 @@
-# Firas Al-Sharaidi
+# Feras ALSharaidi
 **Cybersecurity Student | Tech Enthusiast | Innovator**
 
 Welcome to my GitHub profile. I am a Cybersecurity student at **King Saud University (KSU)** with a strong foundation in network defense, embedded systems, and data-driven security. I am passionate about building secure infrastructures and developing innovative technological solutions.
